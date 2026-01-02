@@ -3,3 +3,23 @@ body{
     margin: 20px;
     background-color: #f4f4f4;
 }
+
+h1{
+    color: #333;
+}
+h2{
+    color: #555;
+}
+a{
+    text-decoration: none;
+    color: #0066cc;
+}
+a:hover{
+    text-decoration: underline;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 20px 0;
+}
